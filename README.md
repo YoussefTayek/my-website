@@ -10,3 +10,6 @@ I am fixed the problem
 Second line
 
 ## Readme with tags
+
+## Getting Started
+to started with this project just clone the repository
