@@ -1,2 +1,3 @@
 .bin
 ## gitignore with tags
+*.png
